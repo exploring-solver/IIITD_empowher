@@ -3,7 +3,7 @@
 Team Hoodini
 
 Deployed Link: [Sheक्षा](http://panel.mait.ac.in:3011/)
-PPT Link: [PPT]([http://panel.mait.ac.in:3011/](https://www.canva.com/design/DAFxOhyQm6o/i31x68LFjk6TQkRKtUMs4A/view?utm_content=DAFxOhyQm6o&utm_campaign=designshare&utm_medium=link&utm_source=editor))
+PPT Link: [PPT](https://www.canva.com/design/DAFxOhyQm6o/i31x68LFjk6TQkRKtUMs4A/view?utm_content=DAFxOhyQm6o&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 
 ## 1. Introduction

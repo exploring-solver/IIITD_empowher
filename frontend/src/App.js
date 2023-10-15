@@ -8,6 +8,7 @@ import Signup from './components/Signup';
 import Login from './components/Login';
 import CommunityComponent from './components/CommunityComponent';
 import ContentLibrary from './components/ContentLibrary';
+import StartupHub from './components/StartupHub';
 
 function App() {
   const [loggedin, setLoggedin] = useState(false);
@@ -55,6 +56,8 @@ function App() {
         <Route path="/signup" element={<Signup loggedin={loggedin} />} />
         <Route path="/community" element={<CommunityComponent loggedin={loggedin} />} />
         <Route path="/content" element={<ContentLibrary loggedin={loggedin} />} />
+        <Route path="/startup" element={<StartupHub loggedin={loggedin} />} />
+
         {/* Add more routes as needed */}
       </Routes>
       <Footer />

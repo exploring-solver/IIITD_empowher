@@ -9,8 +9,9 @@ const Navbar = ({ loggedIn, onLogout }) => {
         <h1 className="hover:cursor-pointer text-white text-2xl font-semibold">Sheeksha - E Learning Portal</h1></Link>
           <Link to={'/community'}><button className=' hover:text-zinc-600 border p-2 mx-2 rounded-sm hover:bg-zinc-500 text-white'>Community Support</button></Link>
           <Link to={'/content'}><button className=' hover:text-zinc-600 border p-2 mx-2 rounded-sm hover:bg-zinc-500 text-white'>Content Library</button></Link>
-          <Link to={'/'}><button className=' hover:text-zinc-600 border p-2 mx-2 rounded-sm hover:bg-zinc-500 text-white'>Sakhee AI Bot</button></Link>
-          <Link to={''}><button className=' hover:text-zinc-600 border p-2 mx-2 rounded-sm hover:bg-zinc-500 text-white'>AR/VR Learning</button></Link>
+          <Link to={'https://creator.voiceflow.com/prototype/652ad8e763f99a99d1c33680'}><button className=' hover:text-zinc-600 border p-2 mx-2 rounded-sm hover:bg-zinc-500 text-white'>Sakhee AI Bot</button></Link>
+          <Link to={'http://panel.mait.ac.in:3010/'}><button className=' hover:text-zinc-600 border p-2 mx-2 rounded-sm hover:bg-zinc-500 text-white'>VR Learning</button></Link>
+          <Link to={'https://codingpanda252.github.io/ShEO/'}><button className=' hover:text-zinc-600 border p-2 mx-2 rounded-sm hover:bg-zinc-500 text-white'>Startup Hub</button></Link>
           {loggedIn ? (
             // If logged in, show the logout button
             <button

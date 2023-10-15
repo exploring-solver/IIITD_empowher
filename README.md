@@ -2,9 +2,18 @@
 
 Team Hoodini
 
+Deployed Link: [Sheक्षा](http://panel.mait.ac.in:3011/)
+PPT Link: [PPT]([http://panel.mait.ac.in:3011/](https://www.canva.com/design/DAFxOhyQm6o/i31x68LFjk6TQkRKtUMs4A/view?utm_content=DAFxOhyQm6o&utm_campaign=designshare&utm_medium=link&utm_source=editor))
+
+
 ## 1. Introduction
 
 Welcome to the Sheक्षा project! Sheक्षा is a unique initiative that combines women empowerment and education through the use of Augmented Reality (AR) and Virtual Reality (VR) technologies. This project aims to provide an innovative and immersive learning experience for women, empowering them with knowledge, skills, and opportunities.
+
+## Project Setup:
+1. npm install
+2. npm run build
+3. npm start build
 
 ## 2. Project Overview
 
@@ -26,17 +35,14 @@ Sheक्षा is a platform that focuses on:
 
 - **Mentorship:** Facilitates mentorship programs, connecting women with experienced mentors in various fields to help them achieve their goals.
 
-### 3.2 Education Features
+-  **AI Chatbot:** provides guidance support and assistance enhances user experience
 
-- **Diverse Course Catalog:** A wide range of courses in fields such as science, technology, engineering, mathematics (STEM), arts, entrepreneurship, and more.
+- **Multilingual Support:** helps women from different background
+  
+- **Virtual Startup Showcase through VR:** helps women going on the way of startup
 
-- **Interactive Learning:** AR and VR technologies enable interactive, immersive learning experiences, making education more engaging and effective.
 
-- **Progress Tracking:** Students can monitor their progress and receive personalized recommendations for their learning journey.
-
-- **Certification:** Upon completion of courses, students receive certifications to showcase their knowledge and skills.
-
-### 3.3 AR/VR Learning Features
+### 3.2 AR/VR Learning Features
 
 - **Immersive Environments:** AR and VR simulations offer realistic and immersive environments to enhance learning.
 
@@ -46,11 +52,10 @@ Sheक्षा is a platform that focuses on:
 
 ## 5. Usage
 
-1. Sign up or log in to your Sheक्षा account.
-2. Browse the course catalog and select your desired course.
+1. Open Sheक्षा website.
+2. Browse through navbar for different contents & features.
 3. Begin your educational journey, utilizing AR/VR features where available.
 4. Connect with the community, access empowerment resources, and engage in mentorship programs.
-5. Track your progress and achieve your goals with the support of SHEEKSHa.
 
 ## 7. TechStack
 1. Main website: react.js, node.js, 
